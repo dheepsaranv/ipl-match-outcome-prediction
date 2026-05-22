@@ -136,13 +136,20 @@ ipl-match-outcome-prediction/
 
 ## Screenshots
 
-This repository includes:
-- Feature importance plots
-- Confusion matrices
-- ROC curves
-- IPL 2024 prediction outputs
+### Feature Importance
+![Feature Importance](Feature%20Importance.PNG)
+
+### Confusion Matrix
+![Confusion Matrix](Confusion%20Matrix.PNG)
+
+### Toss Decision Impact
+![Toss Decision Impact](Toss%20Decision%20Impact.PNG)
+
+### IPL 2024 Predictions
+![IPL 2024 Predictions](IPL%20Prediction%202024.PNG)
 
 ---
+
 ## Future Improvements
 
 Potential future enhancements include:
